@@ -3,7 +3,7 @@ body {
   margin: 0;
   padding: 0;
   background: #12345.jpg;
-  color: #333;
+  color: #12345.jpg;
 }
 
 header {
@@ -60,4 +60,5 @@ footer {
   padding: 15px;
   margin-top: 30px;
 }
+
 
